@@ -1,0 +1,10 @@
+E:\Users\Sascha\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+E:\Users\Sascha\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+E:\Users\Sascha\Documents\Blackjack\Blackjack\bin\Debug\Blackjack.xml
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\Blackjack.exe
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\Blackjack.xml
+E:\Users\Sascha\Documents\Blackjack\Blackjack\obj\x86\Debug\Blackjack.pdb
